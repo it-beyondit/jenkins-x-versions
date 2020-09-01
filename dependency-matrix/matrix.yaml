@@ -98,8 +98,8 @@ dependencies:
   owner: jenkins-x
   repo: jenkins-x-platform
   url: https://github.com/it-beyondit/jenkins-x-platform
-  version: beyondit
-  versionURL: https://github.com/it-beyondit/jenkins-x-platform/releases/tag/beyondit
+  version: 10.1.1
+  versionURL: https://github.com/it-beyondit/jenkins-x-platform/releases/tag/v10.1.1
 - host: github.com
   owner: jenkins-x-charts
   repo: jx-build-templates
